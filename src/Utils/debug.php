@@ -5,7 +5,7 @@ ini_set('display_errors','1');
 
 function dump($data)
 {
-    echo '<div
+    echo '<br><div
     style ="
     display: inline-block;
     padding: 0 10px;
